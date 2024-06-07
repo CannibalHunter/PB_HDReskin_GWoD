@@ -1,0 +1,70 @@
+[en enc enu eng eni ena enz default]
+MNU_CHOOSECLASS="CHOOSE LOADOUT:";
+
+TAG_FIST="Hand to Hand";
+TAG_PISTOL="Enforcer X12 Handgun";
+TAG_REVOLVER="UN-AF ''Sphyraena'' Revolver";
+//TAG_SMG="H&M MP-31SD SMG";
+//TAG_SMG="Bruen MPTac-9 Covert";
+TAG_SMG="Bruen MPT-9 Covert";
+TAG_HUNTER="DiFranco SPOS-E12 Shotgun";
+TAG_SLAYER="Calvary Arms SL41 Shotgun";
+TAG_ZM66="UAC MR-C Mod.66 Service Rifle";
+TAG_VULC="UAC XM426 Rotary Support Weapon";
+TAG_GL="UAC M89 Grenade Launcher";
+TAG_RL="H&M XM35 Rocket Launcher";
+TAG_THUNDER="H&M HM13 Thunder Buster";
+TAG_LIB="FTAC SC-30K Battle Rifle";
+TAG_BRONTO="Bruen Mk.VI AT-Cannon";
+TAG_BOSS="M24 Sniper Rifle";
+TAG_GREFRAG="M67 Fragmentation Grenade";
+
+TAG_PISTOLAMMO="9mm Composite round";
+TAG_REVOLVERAMMO=".355 Masterball round";
+TAG_SHOTGUNSHELLS="12 Gauge shotgun shell";
+TAG_426AMMO="4.26mm UAC Caseless round";
+TAG_7MMAMMO="7.76mm FMJ round";
+TAG_7MMAMMOR="7.76mm Hand Load round";
+TAG_7MCASING="7.76mm casing";
+TAG_BRONTOSHELL="35mm AT round";
+TAG_ROCKETGRENADE="Rocquette";
+TAG_HEATROCKET="H.E.A.T. rocket";
+TAG_DUDROCKET="dud rocquette";
+
+TAG_9MMAG15="9mm pistol magazine";
+TAG_4MMAG="4.26mm UAC Standard magazine";
+TAG_9MMAG30="9mm SMG magazine";
+TAG_7MMAG="7.76mm magazine";
+TAG_7MCLIP="7.76mm clip";
+TAG_BATTERY="Battery Pack";
+
+TAG_POTION="Health Juice";
+
+
+//Pickup
+PICKUP_PistolAmmo="Picked up a 9mm round.";
+PICKUP_9MBOX="Picked up some 9mm ammo.";
+PICKUP_RevolverAmmo="Picked up a .355 Masterball round.";
+PICKUP_355BOX="Picked up some .355 Masterball ammo.";
+PICKUP_ShotgunShell1="Picked up a shotgun shell.";
+PICKUP_ShotgunShell2="Picked up some shotgun shells.";
+PICKUP_ShellBox=PICKUP_ShotgunShell2;
+PICKUP_426Round1="Picked up a stray 4.26 UAC Standard round.";
+PICKUP_426Round2="Picked up a stray block of 4.26 UAC Standard rounds.";
+PICKUP_7MMAMMO="Picked up a 7.76mm FMJ round.";
+PICKUP_7MMAMMOR="Picked up a hand loaded 7.76mm round.";
+PICKUP_7MMBRASS="Picked up some 7.76mm brass.";
+PICKUP_7MMBOX="Picked up some 7.76mm FMJ rounds.";
+PICKUP_BRONTOROUND="Picked up a 60mm AT round.";
+PICKUP_ROCKETGRENADE="Picked up a rocquette.";
+PICKUP_ROCKETBOX="Picked up some rocquettes.";
+PICKUP_DUDROCKET="Picked up a defused rocquette.";
+PICKUP_DUDROCKETNEW="Picked up (and defused) a rocquette.";
+PICKUP_HEATROCKET="Picked up a H.E.A.T. round.";
+
+PICKUP_9MMAG="Picked up a pistol magazine.";
+PICKUP_4MMAG="Picked up a 4.26 UAC Standard magazine.";
+PICKUP_9MMAG30="Picked up an SMG magazine.";
+PICKUP_7MMAG="Picked up a 7.76mm magazine.";
+PICKUP_7MCLIP="Picked up a 7.76mm clip.";
+PICKUP_BATTERY="Picked up a battery.";

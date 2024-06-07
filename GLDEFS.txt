@@ -1,0 +1,116 @@
+//rifles
+
+BrightMap Sprite RIFGA0
+{
+Map "brightmaps/RIFGA0.png"
+DisableFullBright
+}
+
+BrightMap Sprite RIFGB0
+{
+Map "brightmaps/RIFGA0.png"
+DisableFullBright
+}
+
+BrightMap Sprite BRFGA0
+{
+Map "brightmaps/BRFGA0.png"
+DisableFullBright
+}
+
+BrightMap Sprite BRFGB0
+{
+Map "brightmaps/BRFGA0.png"
+DisableFullBright
+}
+
+//bfg
+
+BrightMap Sprite BFGGA0
+{
+Map "brightmaps/BFGGA0.png"
+DisableFullBright
+}
+
+BrightMap Sprite BFGGB0
+{
+Map "brightmaps/BFGGB0.png"
+DisableFullBright
+}
+
+BrightMap Sprite BFGGC0
+{
+Map "brightmaps/BFGGA0.png"
+DisableFullBright
+}
+
+BrightMap Sprite BFUGA0
+{
+Map "brightmaps/BFUGA0.png"
+DisableFullBright
+}
+
+
+//hd
+
+BrightMap Sprite B9KGA0
+{
+Map "brightmaps/BFGGA0.png"
+DisableFullBright
+}
+
+BrightMap Sprite B9KGB0
+{
+Map "brightmaps/BFGGB0.png"
+DisableFullBright
+}
+
+BrightMap Sprite B9KGC0
+{
+Map "brightmaps/BFGGA0.png"
+DisableFullBright
+}
+
+//pg
+//dmr
+
+
+//heal
+
+
+BrightMap Sprite BON1A0
+{
+Map "brightmaps/BON1A0.png"
+DisableFullBright
+}
+
+BrightMap Sprite BON1B0
+{
+Map "brightmaps/BON1A0.png"
+DisableFullBright
+}
+
+BrightMap Sprite BON1C0
+{
+Map "brightmaps/BON1A0.png"
+DisableFullBright
+}
+
+BrightMap Sprite BON1D0
+{
+Map "brightmaps/BON1A0.png"
+DisableFullBright
+}
+
+//misc
+BrightMap Sprite PVISA0
+{
+Map "brightmaps/PVISA0.png"
+DisableFullBright
+}
+
+BrightMap Sprite PVISB0
+{
+Map "brightmaps/PVISB0.png"
+DisableFullBright
+}
