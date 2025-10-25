@@ -61,6 +61,12 @@ Sprite "SHTGC0", 114, 170
 	Patch "SPAS_004", 2, 1
 }
 
+Sprite "SHTGH0", 114, 170
+{
+	Offset -58, -18
+	Patch "SPAS_004", 2, 1
+}
+
 Sprite "SHTGD0", 115, 166
 {
 	Offset -69, -12
